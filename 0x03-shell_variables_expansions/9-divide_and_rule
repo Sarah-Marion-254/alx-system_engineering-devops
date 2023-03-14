@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(( $POWER / $DIVIDE ))export BEST="School"
+echo $(( $POWER / $DIVIDE ))
